@@ -1,3 +1,5 @@
+### This code is associated with the paper from Liu et al., "Analysis of zebrafish periderm enhancers facilitates identification of a regulatory variant near human KRT8/18". eLife, 2020. http://dx.doi.org/10.7554/eLife.51325
+
 ## Periderm_ATACSeq
 
 ---------------
